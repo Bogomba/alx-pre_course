@@ -1,11 +1,6 @@
+#!/bin/bash
 <<<<<<< HEAD
-
-
-
-#!/bin/bash
-ALX School
-
+The school is open!
 =======
-#!/bin/bash
-ALX School
+The school is open
 >>>>>>> f0fe6049dbbd04984121541b6beecfab412d7659
